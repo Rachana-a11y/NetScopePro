@@ -1,0 +1,15 @@
+NETSCOPE PRO – SECURITY ASSESSMENT REPORT
+=========================================
+
+Target: 127.0.0.1
+Total Open Ports: 2
+Risk Level: LOW
+Scan Duration: 2.13 seconds
+
+Open Ports & Services:
+----------------------
+135 | MSRPC | No banner
+445 | SMB | No banner
+
+Security Recommendations:
+- Restrict SMB via firewall.

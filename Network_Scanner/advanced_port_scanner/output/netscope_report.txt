@@ -1,0 +1,17 @@
+NETSCOPE PRO – SECURITY ASSESSMENT REPORT
+=========================================
+
+Target: jcpenney.com
+Total Open Ports: 2
+Risk Level: LOW
+Scan Duration: 2.15 seconds
+
+Open Ports & Services:
+----------------------
+80 | HTTP | HTTP/1.1 301 Moved Permanently
+Server: AkamaiGHost
+Content-Length: 0
+Location: http://www.jcpenney.com/
+Date: Fri, 27 Feb 2026 18:16:10 GMT
+Connection: keep-alive
+443 | HTTPS | No banner
